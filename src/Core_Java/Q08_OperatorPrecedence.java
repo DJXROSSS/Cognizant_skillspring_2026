@@ -1,0 +1,12 @@
+package Core_Java;
+
+public class Q08_OperatorPrecedence {
+    public static void main(String[] args) {
+        int result = 10 + 5 * 2;
+        int groupedResult = (10 + 5) * 2;
+
+        System.out.println("10 + 5 * 2 = " + result);
+        System.out.println("(10 + 5) * 2 = " + groupedResult);
+        System.out.println("Multiplication happens before addition unless parentheses change the order.");
+    }
+}

@@ -2,7 +2,7 @@
 //Week - 1
 //timestamp - 25/06/2026 23:50
 
-package week_1.engineering_concepts.Exercise_2;
+package week_1.engineering_concepts.DesignPatternsAndPrinciples.Exercise_2;
 
 public abstract class DocumentFactory {
     public abstract Document createDocument();

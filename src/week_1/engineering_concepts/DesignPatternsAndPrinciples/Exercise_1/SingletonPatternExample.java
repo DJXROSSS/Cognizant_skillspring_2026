@@ -2,7 +2,7 @@
 //Week - 1
 //timestamp - 25/06/2026 23:50
 
-package week_1.engineering_concepts.Exercise_1;
+package week_1.engineering_concepts.DesignPatternsAndPrinciples.Exercise_1;
 
 class Logger{
     private static volatile Logger instance; // to counter thread safety issues
